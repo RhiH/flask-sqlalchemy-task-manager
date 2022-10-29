@@ -18,7 +18,4 @@ document.addEventListener("DOMContentLoaded", function() {
     let collapsibles = document.querySelectorAll(".collapsible");
     M.Collapsible.init(collapsibles);
 });
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
+
